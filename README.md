@@ -1,2 +1,2 @@
 # Basic-recipe-website
-Just a test lads
+This is going to be a quick test project for a recipe website
